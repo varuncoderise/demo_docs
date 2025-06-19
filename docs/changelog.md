@@ -1,3 +1,14 @@
+## [1.3.4](https://github.com/varuncoderise/demo-plugin/compare/v1.3.3...v1.3.4) (2025-06-19)
+
+### Maintenance Release
+
+* update changelog for v1.3.4.1 ([38d0bd0](https://github.com/varuncoderise/demo-plugin/commit/38d0bd046af3422e2588f9562d64ae07b4ae5ca9))
+* update changelog for v1.3.4.2 ([754ba5e](https://github.com/varuncoderise/demo-plugin/commit/754ba5e64ee19d8eb007510c92aad494be0df669))
+* update changelog for v1.3.4.3 [skip-chore] ([6c59306](https://github.com/varuncoderise/demo-plugin/commit/6c593069b8eea79782694ebb7eb5bece1e062683))
+* updated ([0e3c78e](https://github.com/varuncoderise/demo-plugin/commit/0e3c78e26ff23ff8c20f5d7d0be2c754130ab7ba))
+* updated pipeline ([80c0a5b](https://github.com/varuncoderise/demo-plugin/commit/80c0a5bc36d0b81eaf4f429ae35efbdd1847a961))
+* updated pipeline ([7caa48e](https://github.com/varuncoderise/demo-plugin/commit/7caa48e343eeec542d7540c9c0787511d3d2cf1d))
+
 ## [1.3.4.3](https://github.com/varuncoderise/demo-plugin/compare/v1.3.4.2...v1.3.4.3) (2025-06-19)
 
 ### Maintenance Release
