@@ -1,3 +1,9 @@
+## [1.3.4.3](https://github.com/varuncoderise/demo-plugin/compare/v1.3.4.2...v1.3.4.3) (2025-06-19)
+
+### Maintenance Release
+
+* chore: updated pipeline ([80c0a5b](https://github.com/varuncoderise/demo-plugin/commit/80c0a5bc36d0b81eaf4f429ae35efbdd1847a961))
+
 1.3.4.2 (2025-06-19)
 
 Maintenance Release
