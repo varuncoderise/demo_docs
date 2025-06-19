@@ -1,3 +1,21 @@
+## [1.2.1](https://github.com/varuncoderise/demo-plugin/compare/v1.2.0...v1.2.1) (2025-06-19)
+
+### Hotfix Release
+
+* fixed pipeline and tool ([b86a6f0](https://github.com/varuncoderise/demo-plugin/commit/b86a6f009d4e203b681b290847b46d372766283d))
+
+### Maintenance Release
+
+* fixed pipeline ([4c59305](https://github.com/varuncoderise/demo-plugin/commit/4c59305b4f6ac07c1224c9eca42cb5b1c8c1bdf5))
+* fixed pipeline ([f64653e](https://github.com/varuncoderise/demo-plugin/commit/f64653e6e2c50f4dcfdecb888de731be4eed053d))
+* fixed pipeline ([9b35ebf](https://github.com/varuncoderise/demo-plugin/commit/9b35ebfb0555251a84137910a9c4e3a47b81a2b0))
+* fixed pipeline ([edf76a2](https://github.com/varuncoderise/demo-plugin/commit/edf76a2e820f0052b570758e99fad8e3035d9c62))
+* fixed versioning ([5b024f1](https://github.com/varuncoderise/demo-plugin/commit/5b024f1f49b37b6b2c275bf1870bb7b7aa25fda6))
+* fixed versioning ([39b3802](https://github.com/varuncoderise/demo-plugin/commit/39b38026d29f206ced7cb090cc3cff66b054d83e))
+* **release:** inject 4-digit release-as 1.2.1.1 ([d71a303](https://github.com/varuncoderise/demo-plugin/commit/d71a30314feea48319945e1e4fb65307d8dd6609))
+* test maintenance ([8ed0386](https://github.com/varuncoderise/demo-plugin/commit/8ed038699d2ad1932805850084367e3f50561e0f))
+* test maintenance ([4f6727b](https://github.com/varuncoderise/demo-plugin/commit/4f6727b81dd3599dd6f35ee0155ac1a9c0e67345))
+
 # Changelog
 
 ## [1.2.0](https://github.com/varuncoderise/demo-plugin/compare/v1.1.1...v1.2.0) (2025-06-19)
