@@ -1,3 +1,9 @@
+1.3.2.8 (2025-06-19)
+
+Maintenance Release
+
+chore: solved bugs (d9dbacb)
+
 ## [1.3.1](https://github.com/varuncoderise/demo-plugin/compare/v1.3.0...v1.3.1) (2025-06-19)
 
 ### Maintenance Release
