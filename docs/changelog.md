@@ -1,3 +1,9 @@
+1.3.4.2 (2025-06-19)
+
+Maintenance Release
+
+chore: updated pipeline (7caa48e)
+
 1.3.4.1 (2025-06-19)
 
 Maintenance Release
