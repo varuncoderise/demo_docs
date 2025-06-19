@@ -1,3 +1,4 @@
+## [1.0.0](https://github.com/varuncoderise/demo-plugin/compare/v1.3.1...v1.0.0) (2025-06-19)
 ## [1.3.1](https://github.com/varuncoderise/demo-plugin/compare/v1.3.0...v1.3.1) (2025-06-19)
 
 ### Maintenance Release
@@ -79,3 +80,7 @@
 * initial setup for demo plugin with husky and release-please ([bcf7704](https://github.com/varuncoderise/demo-plugin/commit/bcf7704ecc27e468dd738aa0dd38d72882b580d8))
 * initial setup for demo plugin with husky and release-please ([f743dab](https://github.com/varuncoderise/demo-plugin/commit/f743dab2ba3389b1b9608eadfe4aad8dff3d2cd4))
 * initial setup for demo plugin with husky and release-please ([b263d3c](https://github.com/varuncoderise/demo-plugin/commit/b263d3c4c96af724694bc089deaba64c2c9f6228))
+
+
+## Maintenance Release: v1.3.2.2
+
