@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/varuncoderise/demo-plugin/compare/v1.3.4...v1.4.0) (2025-06-19)
+
+### Feature Release
+
+* updated pipeline ([04bbcde](https://github.com/varuncoderise/demo-plugin/commit/04bbcde0bce4f577576f529d6c68dc12230b626c))
+
 ## [1.3.4](https://github.com/varuncoderise/demo-plugin/compare/v1.3.3...v1.3.4) (2025-06-19)
 
 ### Maintenance Release
