@@ -1,3 +1,21 @@
+## [1.3.0](https://github.com/varuncoderise/demo-plugin/compare/v1.2.2...v1.3.0) (2025-06-19)
+
+### Feature Release
+
+* testing ([d8e7826](https://github.com/varuncoderise/demo-plugin/commit/d8e7826397edb9e04d85f93650459ba0c81b760f))
+
+### Maintenance Release
+
+* testing ([16580e7](https://github.com/varuncoderise/demo-plugin/commit/16580e7264392a5f18a16bbc23d84c46d8fe5c5d))
+* testing ([c4aed16](https://github.com/varuncoderise/demo-plugin/commit/c4aed16828a1284d119734557ac2ce1a7b638eff))
+* testing ([0b785a5](https://github.com/varuncoderise/demo-plugin/commit/0b785a5e982f2d3a03f65d75b11c80c3d8fea58e))
+* testing ([07fb38e](https://github.com/varuncoderise/demo-plugin/commit/07fb38e7290dc503f84599fc40d5070d2b053358))
+* testing ([5d533e2](https://github.com/varuncoderise/demo-plugin/commit/5d533e2e8eba91672a4c9f9626bdadfda5d2183a))
+* testing ([768d29d](https://github.com/varuncoderise/demo-plugin/commit/768d29d5f2e3d5141a729a1b7db1a0b3611f109a))
+* testing ([98e82c8](https://github.com/varuncoderise/demo-plugin/commit/98e82c824ed8893dad435462804a23dd9b08cce4))
+* testing ([2358488](https://github.com/varuncoderise/demo-plugin/commit/2358488e1c09dafa4b4b6820f75f2465e92cd14a))
+* testing ([65d8276](https://github.com/varuncoderise/demo-plugin/commit/65d827605f41d9c460e900aaff259d9f9beccb23))
+
 ## [1.2.2](https://github.com/varuncoderise/demo-plugin/compare/v1.2.1...v1.2.2) (2025-06-19)
 
 ### Maintenance Release
