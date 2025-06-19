@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/varuncoderise/demo-plugin/compare/v1.1.1...v1.2.0) (2025-06-19)
+
+
+### Features
+
+* added release format ([ef40dd9](https://github.com/varuncoderise/demo-plugin/commit/ef40dd90546e54604eb6d04c0a5cd9837b42eaee))
+
 ## [1.1.1](https://github.com/varuncoderise/demo-plugin/compare/v1.1.0...v1.1.1) (2025-06-16)
 
 
