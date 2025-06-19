@@ -1,3 +1,16 @@
+## [1.4.2](https://github.com/varuncoderise/demo-plugin/compare/v1.4.1...v1.4.2) (2025-06-19)
+
+### Hotfix Release
+
+* fixes ([60594de](https://github.com/varuncoderise/demo-plugin/commit/60594de4c27ad03f39eb006743e848d4a13b58b7))
+
+### Maintenance Release
+
+* fix ([0148bcd](https://github.com/varuncoderise/demo-plugin/commit/0148bcd3dd0aa1f3bf7cf4db7f70879d714c47b0))
+* fixed workflow ([e43a1fa](https://github.com/varuncoderise/demo-plugin/commit/e43a1fa755c9b90781b424d2a2f5ccdad8a819c7))
+* update changelog for v1.4.1.2 [skip-chore] ([752b6a6](https://github.com/varuncoderise/demo-plugin/commit/752b6a6a83b5ede1a6d27cca97b1f9f66733558a))
+* update changelog for v1.4.1.3 [skip-chore] ([c969eef](https://github.com/varuncoderise/demo-plugin/commit/c969eef6b35eac5553ad538b92763d315508a9b1))
+
 ## [1.4.1.3](https://github.com/varuncoderise/demo-plugin/compare/v1.4.1.2...v1.4.1.3) (2025-06-19)
 
 ### Maintenance Release
