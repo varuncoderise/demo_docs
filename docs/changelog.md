@@ -1,3 +1,9 @@
+## [1.2.2](https://github.com/varuncoderise/demo-plugin/compare/v1.2.1...v1.2.2) (2025-06-19)
+
+### Maintenance Release
+
+* testing ([d53bb8d](https://github.com/varuncoderise/demo-plugin/commit/d53bb8d336d42016eeea08cb5eadc17634538412))
+
 ## [1.2.1](https://github.com/varuncoderise/demo-plugin/compare/v1.2.0...v1.2.1) (2025-06-19)
 
 ### Hotfix Release
