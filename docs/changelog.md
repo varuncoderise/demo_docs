@@ -1,3 +1,9 @@
+## [1.4.1.2](https://github.com/varuncoderise/demo-plugin/compare/v1.4.1.1...v1.4.1.2) (2025-06-19)
+
+### Maintenance Release
+
+* chore: fixed workflow ([e43a1fa](https://github.com/varuncoderise/demo-plugin/commit/e43a1fa755c9b90781b424d2a2f5ccdad8a819c7))
+
 ## [1.4.1](https://github.com/varuncoderise/demo-plugin/compare/v1.4.0...v1.4.1) (2025-06-19)
 
 ### Hotfix Release
