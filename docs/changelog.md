@@ -1,3 +1,9 @@
+## [1.4.1.3](https://github.com/varuncoderise/demo-plugin/compare/v1.4.1.2...v1.4.1.3) (2025-06-19)
+
+### Maintenance Release
+
+* chore: fix ([0148bcd](https://github.com/varuncoderise/demo-plugin/commit/0148bcd3dd0aa1f3bf7cf4db7f70879d714c47b0))
+
 ## [1.4.1.2](https://github.com/varuncoderise/demo-plugin/compare/v1.4.1.1...v1.4.1.2) (2025-06-19)
 
 ### Maintenance Release
