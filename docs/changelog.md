@@ -1,8 +1,11 @@
+## [1.4.4.2](https://github.com/varuncoderise/demo-plugin/compare/v1.4.4.1...v1.4.4.2) (2025-06-20)
+
+### Hotfix Release
+
+* hotfix: fixed  ([c56b634](https://github.com/varuncoderise/demo-plugin/commit/c56b6347df4689aa8eeec3943651e0b5f3ac7013))
+
 ## [1.4.4.1](https://github.com/varuncoderise/demo-plugin/compare/v1.4.4...v1.4.4.1) (2025-06-20)
 
-### Maintenance Release
-
-* chore: fixed pipeline  ([7cbb4da](https://github.com/varuncoderise/demo-plugin/commit/7cbb4dab5ddc02c2b1ed5f46ca511d202b7259e4))
 
 
 
