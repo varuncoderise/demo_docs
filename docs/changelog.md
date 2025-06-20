@@ -1,3 +1,13 @@
+## [1.6.0](https://github.com/varuncoderise/demo-plugin/compare/v1.5.0...v1.6.0) (2025-06-20)
+
+### ⚠ BREAKING CHANGES
+
+* introduce new block API
+
+### Feature Release
+
+* introduce new block API ([cdb0277](https://github.com/varuncoderise/demo-plugin/commit/cdb0277dd22a63d12999df2c2562512ebdac307f))
+
 ## [1.5.0](https://github.com/varuncoderise/demo-plugin/compare/v1.4.5...v1.5.0) (2025-06-20)
 
 ### ⚠ BREAKING CHANGES
