@@ -2,7 +2,7 @@ site_name: Servv WordPress Docs
 theme:
   name: material
   palette:
-    primary: blue
+    primary: pink
     accent: light blue
 nav:
   - Home: index.md
