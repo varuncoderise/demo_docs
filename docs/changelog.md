@@ -1,3 +1,13 @@
+## [1.5.0](https://github.com/varuncoderise/demo-plugin/compare/v1.4.5...v1.5.0) (2025-06-20)
+
+### ⚠ BREAKING CHANGES
+
+* updates block API, incompatible with previous versions
+
+### Feature Release
+
+* add new block editor feature ([bde9ff0](https://github.com/varuncoderise/demo-plugin/commit/bde9ff07ec2a62d7055ad56e21b3819cb2f2deb1))
+
 ## [1.4.5](https://github.com/varuncoderise/demo-plugin/compare/v1.4.4...v1.4.5) (2025-06-20)
 
 ### Hotfix Release
