@@ -1,3 +1,9 @@
+## [1.4.4](https://github.com/varuncoderise/demo-plugin/compare/v1.4.3...v1.4.4) (2025-06-20)
+
+### Maintenance Release
+
+* fixed ([11389e0](https://github.com/varuncoderise/demo-plugin/commit/11389e0dfd4e56959b37a7a71bf6f6c61c6afbd5))
+
 ## [1.4.3](https://github.com/varuncoderise/demo-plugin/compare/v1.4.2...v1.4.3) (2025-06-20)
 
 ### Maintenance Release
