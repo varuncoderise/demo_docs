@@ -1,3 +1,15 @@
+## [2.0.0](https://github.com/varuncoderise/demo-plugin/compare/v1.6.0...v2.0.0) (2025-06-20)
+
+### ⚠ BREAKING CHANGES
+
+* add advanced block editor API
+* add advanced block editor API
+
+### Feature Release
+
+* add advanced block editor API ([aa0b630](https://github.com/varuncoderise/demo-plugin/commit/aa0b630a5edb4776d188fcc4785bde8b4fb65359))
+* add advanced block editor API ([ed94876](https://github.com/varuncoderise/demo-plugin/commit/ed948769588a76fe69241cc29e8e944cfc7eb9cb))
+
 ## [1.6.0](https://github.com/varuncoderise/demo-plugin/compare/v1.5.0...v1.6.0) (2025-06-20)
 
 ### ⚠ BREAKING CHANGES
