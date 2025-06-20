@@ -6,7 +6,14 @@ theme:
     accent: light blue
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
-  - Changelog: changelog.md
+  - Getting Started: 
+      - Installation: getting-started/installation.md
+  - Changelog: 
+      - Release Notes: changelog/changelog.md
 repo_url: https://github.com/varuncoderise/demo_docs
 edit_uri: edit/main/docs/
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
