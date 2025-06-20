@@ -18,6 +18,11 @@ The Event Management Plugin provides a comprehensive solution for organizing, sc
 - Customizable event pages
 - Integration with calendar apps
 
+## Watch the Overview
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSvQrtJmasg?si=TMj7P7AcBq5rrWir" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Need Help?
 
 If you have questions or need assistance, please refer to the [Support](support.md) section.
