@@ -1,8 +1,17 @@
+## [2.1.0.0](https://github.com/varuncoderise/demo-plugin/compare/v2.0.0.1...v2.1.0.0) (2025-06-23)
+
+### Feature Release
+
+* feat: merge develop into main for minor release  ([297f194](https://github.com/varuncoderise/demo-plugin/commit/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc))
+
+- https://github.com/varuncoderise/demo-plugin/blob/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc/.github/workflows/release.yml
+- https://github.com/varuncoderise/demo-plugin/blob/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc/node_modules/.package-lock.json
+- https://github.com/varuncoderise/demo-plugin/blob/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc/package-lock.json
+- https://github.com/varuncoderise/demo-plugin/blob/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc/package.json
+- https://github.com/varuncoderise/demo-plugin/blob/297f194d7542e2e8b5bb5d66da44ec6b6a2d9dcc/plugin.php
+
 ## [2.0.0.1](https://github.com/varuncoderise/demo-plugin/compare/v2.0.0...v2.0.0.1) (2025-06-23)
 
-### Maintenance Release
-
-* chore: disable commitlint on develop branch  ([e6d62fb](https://github.com/varuncoderise/demo-plugin/commit/e6d62fb449a0fbabe2a2dc848bc60ce0a8461466))
 
 
 ### ⚠ BREAKING CHANGES
@@ -10,9 +19,6 @@
 * add advanced block editor API
 * add advanced block editor API
 
-### Feature Release
-
-* add advanced block editor API ([aa0b630](https://github.com/varuncoderise/demo-plugin/commit/aa0b630a5edb4776d188fcc4785bde8b4fb65359))
 * add advanced block editor API ([ed94876](https://github.com/varuncoderise/demo-plugin/commit/ed948769588a76fe69241cc29e8e944cfc7eb9cb))
 
 ## [1.6.0](https://github.com/varuncoderise/demo-plugin/compare/v1.5.0...v1.6.0) (2025-06-20)
@@ -21,9 +27,6 @@
 
 * introduce new block API
 
-### Feature Release
-
-* introduce new block API ([cdb0277](https://github.com/varuncoderise/demo-plugin/commit/cdb0277dd22a63d12999df2c2562512ebdac307f))
 
 ## [1.5.0](https://github.com/varuncoderise/demo-plugin/compare/v1.4.5...v1.5.0) (2025-06-20)
 
@@ -31,9 +34,6 @@
 
 * updates block API, incompatible with previous versions
 
-### Feature Release
-
-* add new block editor feature ([bde9ff0](https://github.com/varuncoderise/demo-plugin/commit/bde9ff07ec2a62d7055ad56e21b3819cb2f2deb1))
 
 ## [1.4.5](https://github.com/varuncoderise/demo-plugin/compare/v1.4.4...v1.4.5) (2025-06-20)
 
@@ -81,9 +81,6 @@
 
 ## [1.4.0](https://github.com/varuncoderise/demo-plugin/compare/v1.3.4...v1.4.0) (2025-06-19)
 
-### Feature Release
-
-* updated pipeline ([04bbcde](https://github.com/varuncoderise/demo-plugin/commit/04bbcde0bce4f577576f529d6c68dc12230b626c))
 
 ## [1.3.4](https://github.com/varuncoderise/demo-plugin/compare/v1.3.3...v1.3.4) (2025-06-19)
 
@@ -125,9 +122,6 @@ chore: solved bugs (d9dbacb)
 
 ## [1.3.0](https://github.com/varuncoderise/demo-plugin/compare/v1.2.2...v1.3.0) (2025-06-19)
 
-### Feature Release
-
-* testing ([d8e7826](https://github.com/varuncoderise/demo-plugin/commit/d8e7826397edb9e04d85f93650459ba0c81b760f))
 
 * testing ([c4aed16](https://github.com/varuncoderise/demo-plugin/commit/c4aed16828a1284d119734557ac2ce1a7b638eff))
 * testing ([0b785a5](https://github.com/varuncoderise/demo-plugin/commit/0b785a5e982f2d3a03f65d75b11c80c3d8fea58e))
@@ -204,9 +198,6 @@ chore: solved bugs (d9dbacb)
 
 ## [1.3.0](https://github.com/varuncoderise/demo-plugin/compare/v1.2.2...v1.3.0) (2025-06-19)
 
-### Feature Release
-
-* testing ([d8e7826](https://github.com/varuncoderise/demo-plugin/commit/d8e7826397edb9e04d85f93650459ba0c81b760f))
 
 * testing ([c4aed16](https://github.com/varuncoderise/demo-plugin/commit/c4aed16828a1284d119734557ac2ce1a7b638eff))
 * testing ([0b785a5](https://github.com/varuncoderise/demo-plugin/commit/0b785a5e982f2d3a03f65d75b11c80c3d8fea58e))
