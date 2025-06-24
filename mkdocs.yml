@@ -1,18 +1,5 @@
 site_name: Servv WordPress Docs
 site_url: https://varuncoderise.github.io/demo_docs/
-theme:
-  name: material
-  palette:
-    primary: pink
-    accent: light blue
-nav:
-  - Home: index.md
-  - Getting Started: 
-      - Installation: getting-started/installation.md
-  - Changelog: 
-      - Release Notes: changelog/changelog.md
-repo_url: https://github.com/varuncoderise/demo_docs
-edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -146,3 +133,12 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Getting Started: 
+      - Installation: getting-started/installation.md
+  - Changelog: 
+      - Release Notes: changelog/changelog.md
+repo_url: https://github.com/varuncoderise/demo_docs
+edit_uri: edit/main/docs/
