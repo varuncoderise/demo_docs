@@ -78,15 +78,14 @@ extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
-  social:
-    - icon: fontawesome/brands/github
-      link: 
-    - icon: fontawesome/brands/docker
-      link: 
-    - icon: fontawesome/brands/python
-      link: 
-    - icon: fontawesome/brands/bluesky
-      link: 
+  #social:
+    #- icon: fontawesome/brands/github
+    #  link: 
+    #- icon: fontawesome/brands/docker
+    #- icon: fontawesome/brands/python
+    #  link: 
+    #- icon: fontawesome/brands/bluesky
+    #  link: 
 
 markdown_extensions:
   - abbr
