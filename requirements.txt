@@ -6,6 +6,8 @@ pygments~=2.16
 pymdown-extensions~=10.2
 mkdocs-material
 python-minifier
+mkdocs-minify-plugin
+
 
 # Requirements for plugins
 babel~=2.10
