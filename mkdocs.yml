@@ -67,9 +67,9 @@ plugins:
       minify_html: true
 
 # Hooks
-hooks:
-  - material/overrides/hooks/shortcodes.py
-  - material/overrides/hooks/translations.py
+#hooks:
+  #- material/overrides/hooks/shortcodes.py
+  #- material/overrides/hooks/translations.py
 
 extra:
   status:
